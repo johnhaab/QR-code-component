@@ -23,7 +23,7 @@ h2 {
 
 .container {
     max-width: 400px;
-    margin: 0 auto;
+    margin: auto;
 }
 
 .card {
@@ -31,7 +31,7 @@ h2 {
     padding: 15px;
     border-radius: 17px;
     margin-bottom: 20px;
-    width: 80%;
+    width: 78%;
 }
 
 .card img{
