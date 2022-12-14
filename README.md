@@ -23,7 +23,7 @@ I started learning Front end web development on 12/05/22, this is the first chal
 
 ### Links
 
-- Solution URL: [Click me!](https://your-solution-url.com)
+- Solution URL: [Click me!](https://www.frontendmentor.io/solutions/qr-code-component-d_OYvevQq0)
 - Live Site URL: [Click me!](https://johnhaab.github.io/QR-code-component/)
 
 ## My process
